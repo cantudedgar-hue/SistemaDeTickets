@@ -1,0 +1,10 @@
+body { font-family: system-ui, sans-serif; margin: 2rem; background: #f4f4f5; }
+h1 { color: #1e293b; }
+.metrics { display: flex; gap: 1rem; margin-bottom: 2rem; }
+.card { background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); flex: 1; }
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; }
+th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid #e2e8f0; }
+th { background: #1e293b; color: white; }
+.status-abierto { color: #dc2626; font-weight: bold; }
+.status-en_progreso { color: #d97706; font-weight: bold; }
+.status-cerrado { color: #16a34a; font-weight: bold; }

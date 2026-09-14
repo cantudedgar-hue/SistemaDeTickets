@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greyz\\Desktop\\TICKETDESK\\HelpdeskApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7CE997-791E-29E9-8A4A-BB7B598493B8}|HelpdeskApi.csproj|c:\\users\\greyz\\desktop\\ticketdesk\\helpdeskapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7CE997-791E-29E9-8A4A-BB7B598493B8}|HelpdeskApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7CE997-791E-29E9-8A4A-BB7B598493B8}|HelpdeskApi.csproj|c:\\users\\greyz\\desktop\\ticketdesk\\helpdeskapi\\data\\helpdeskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7CE997-791E-29E9-8A4A-BB7B598493B8}|HelpdeskApi.csproj|solutionrelative:data\\helpdeskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\greyz\\Desktop\\TICKETDESK\\HelpdeskApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\greyz\\Desktop\\TICKETDESK\\HelpdeskApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:49:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpdeskContext.cs",
+              "DocumentMoniker": "C:\\Users\\greyz\\Desktop\\TICKETDESK\\HelpdeskApi\\Data\\HelpdeskContext.cs",
+              "RelativeDocumentMoniker": "Data\\HelpdeskContext.cs",
+              "ToolTip": "C:\\Users\\greyz\\Desktop\\TICKETDESK\\HelpdeskApi\\Data\\HelpdeskContext.cs",
+              "RelativeToolTip": "Data\\HelpdeskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:49:07.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

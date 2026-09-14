@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Helpdesk Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Helpdesk - Panel de Tickets</h1>
+
+  <section class="metrics">
+    <div class="card">
+      <h3>Tickets por estado</h3>
+      <ul id="estado-list"></ul>
+    </div>
+    <div class="card">
+      <h3>Tickets por categoría</h3>
+      <ul id="categoria-list"></ul>
+    </div>
+    <div class="card">
+      <h3>Tiempo promedio de resolución</h3>
+      <p id="tiempo-resolucion"></p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Tickets</h2>
+    <table id="tickets-table">
+      <thead>
+        <tr>
+          <th>ID</th><th>Título</th><th>Estado</th><th>Prioridad</th><th>Cliente</th><th>Agente</th><th>Categoría</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
